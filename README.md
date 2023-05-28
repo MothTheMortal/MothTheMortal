@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MothTheMortal
-- 👀 I’m interested in reading, and calisthenics, and studying
+- 👀 I’m interested in reading, and programming, and studying
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on nothin
+- 💞️ I’m looking to collaborate on any development related to python.
 - 📫 How to reach me discord MothTheMortal#0737
 
 <!---
